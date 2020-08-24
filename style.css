@@ -1,0 +1,57 @@
+.box {
+  min-height: 100px;
+  padding: 5px;
+  margin: 5px;
+  font-weight: 800;
+  color: #fff;
+}
+p{
+  color: gray;
+  position: relative;
+}
+.white {
+  background: white;
+}
+
+#land-image{
+
+  position: relative;
+  width: 200px;
+  height: 200px;
+}
+
+.landing{
+  width: 70%;
+}
+h2 {
+  color: teal;
+}
+h3 {
+  color: teal;
+}
+body {
+  background-color: lightgrey;
+}
+
+.navbar-brand{
+  color: teal;
+}
+
+.figure{
+  width: 150px;
+  height: 150px;
+}
+
+.focus-image{
+  width: 450px;
+  height: 300px;
+}
+
+.highlight{
+  border: 5px solid teal;
+}
+
+.compfigure {
+  width: 400px;
+  height: 250px;
+}
